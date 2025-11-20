@@ -22,7 +22,7 @@ My main focus combines Data Science, Data Engineering, and Automation to optimiz
 
 ## **About Me**
 
-<picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmV6dzZmMXBzZnBhbG9vdXZ2OGMyM3U0cjhkbTMxeGhtZTRsanNqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUDSqrOBndqralAbIW/giphy.gif" width = 400px></picture>
+<picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmV6dzZmMXBzZnBhbG9vdXZ2OGMyM3U0cjhkbTMxeGhtZTRsanNqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUDSqrOBndqralAbIW/giphy.gif" width = 200px></picture>
 
 - I enjoy reading scientific books, understanding how things work, and learning something new every day. 🔬📚
 - I'm passionate about researching, experimenting, and creating, especially when it involves data and technology. 🔍💡
