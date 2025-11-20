@@ -20,7 +20,12 @@
 My main focus combines Data Science, Data Engineering, and Automation to optimize processes and generate value. I specialize in building robust pipelines, predictive models, and interactive dashboards.
 </p>
 
+## **About Me**
 
+- I enjoy reading scientific books, understanding how things work, and learning something new every day. 🔬📚
+- I'm passionate about researching, experimenting, and creating, especially when it involves data and technology. 🔍💡
+- I love exploring the analytical side through data analysis, data engineering, and data science. 📊🤖
+- I'm always looking to improve, automate repetitive tasks, and build solutions that make everything work better. ⚙️✨
 
 ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
