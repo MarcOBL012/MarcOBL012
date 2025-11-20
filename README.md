@@ -32,6 +32,10 @@ My main focus combines Data Science, Data Engineering, and Automation to optimiz
   <a href="" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   </a>
+
+  <a href="" target="_blank">
+    <img alt="Power Bi" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  </a>
   
    <a href="" target="_blank">
     <img alt="Tensor" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
@@ -88,7 +92,7 @@ My main focus combines Data Science, Data Engineering, and Automation to optimiz
 
 
 
-### 🗃 &nbsp;Databases
+## 🗃 &nbsp;Databases
 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
@@ -96,7 +100,7 @@ My main focus combines Data Science, Data Engineering, and Automation to optimiz
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)&nbsp;
 
 
-### 🧰 &nbsp;Version Controll & Tools 
+## 🧰 &nbsp;Version Controll & Tools 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
