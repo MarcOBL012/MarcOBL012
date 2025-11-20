@@ -30,6 +30,10 @@ My main focus combines Data Science, Data Engineering, and Automation to optimiz
   </a>
   
   <a href="" target="_blank">
+    <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  </a>
+  
+  <a href="" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   </a>
 
