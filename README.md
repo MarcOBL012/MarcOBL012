@@ -133,6 +133,9 @@ My main focus combines Data Science, Data Engineering, and Automation to optimiz
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)&nbsp;
 
 
+## My Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcOBL012&langs_count_private=true&theme=radical&card_width=445)
 
 
 ## Projects
