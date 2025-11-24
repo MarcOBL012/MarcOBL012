@@ -144,6 +144,16 @@ My main focus combines Data Science, Data Engineering, and Automation to optimiz
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcOBL012&repo=The-Interactive-System-Dynamics-Simulator&theme=tokyonight" />
+
+</a>  
+
+
+
+<a href="https://github.com/MarcOBL012/Simulation-of-a-transport-system-through-system-dynamics">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcOBL012&repo=Simulation-of-a-transport-system-through-system-dynamics&theme=tokyonight" />
 
 </a>  
