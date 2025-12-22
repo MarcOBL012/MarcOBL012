@@ -140,6 +140,15 @@ My main focus combines Data Science, Data Engineering, and Automation to optimiz
 
 ## Projects
 
+<a href="https://github.com/MarcOBL012/Forex-Peru-LSTM-Predictor-Deep-Learning-Exchange-Rate-Model">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcOBL012&repo=Forex-Peru-LSTM-Predictor-Deep-Learning-Exchange-Rate-Model&theme=tokyonight" />
+
+</a>  
+
+
 <a href="https://github.com/MarcOBL012/Exchange-Rate-Scraper-SBS-Peru">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
