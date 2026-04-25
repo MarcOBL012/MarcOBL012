@@ -216,3 +216,21 @@ My main focus combines Data Science, Data Engineering, and Automation to optimiz
 
 </a>  
 
+<a href="https://github.com/MarcOBL012/AlphaData-Hub">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcOBL012&repo=AlphaData-Hub&theme=tokyonight" />
+
+</a>  
+<a href="https://github.com/MarcOBL012/GenAI-Business-Model-Consulting">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcOBL012&repo=GenAI-Business-Model-Consulting&theme=tokyonight" />
+
+</a>  
+
+
+
+
