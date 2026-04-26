@@ -231,6 +231,12 @@ My main focus combines Data Science, Data Engineering, and Automation to optimiz
 
 </a>  
 
+<a href="https://github.com/MarcOBL012/AI-Powered-Sales-Demand-Forecaster">
 
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcOBL012&repo=AI-Powered-Sales-Demand-Forecaster&theme=tokyonight" />
+
+</a>  
 
 
